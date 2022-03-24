@@ -1,0 +1,55 @@
+body {
+    background-color:rgb(168, 168, 168);
+  }
+  h1 {
+    text-align:center; 
+    color: rgb(65, 9, 9);
+    font-family: Roboto, Arial, sans-serif;
+  }
+  h2 {
+    text-align:center; 
+    color: rgb(0, 0, 0);
+    font-family: Roboto, Arial, sans-serif;
+  }
+  h3 {
+    text-align:center; 
+    color: rgb(0, 0, 0);
+    font-family: Roboto, Arial, sans-serif;
+  }
+  p {
+    color: rgb(0, 0, 0);
+    font-family: Roboto, Arial, sans-serif;
+  }
+  .p1 {
+    text-align:center; 
+    color: rgb(80, 26, 57);
+    font-family: Roboto, Arial, sans-serif;
+  }
+  .b1 {
+    font-family:sans-serif ; 
+    text-align:center; 
+    color: rgb(0, 0, 0);
+  }
+  .b2 {
+    text-align: center;
+    color: rgb(33, 97, 21);
+    font-style: italic;
+  }
+  b {
+    text-align:center; 
+    color: rgb(0, 0, 0);
+    font-family: Roboto, Arial, sans-serif;
+  }
+  hr{
+    border-bottom: 2px solid rgb(168, 168, 168);
+  }
+  div{
+    text-align: center;
+  }
+  img {
+
+    width:10%;
+  }
+  .img60 {
+    width:100%
+  }
