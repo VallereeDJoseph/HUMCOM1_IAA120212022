@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(233, 115, 115);
+}
+table{
+    padding: 2px;
+    margin: 2px;
+    border: 2px solid black;
+    width: 100%;
+    border: 5px;
+}
+tr {
+    border: 2px solid black;
+}
+header{
+    background-image: url(https://scontent.fcrk1-2.fna.fbcdn.net/v/t39.30808-6/263300734_473804557795318_6009561283205886195_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFsHwyrAJ5ocjnZi-soHyZQA4-YW17IV9MDj5hbXshX0zfa585HPIS7nRvheipzP4p1E4uq7ATVro3OoiKSMoLR&_nc_ohc=F85LRKCGIQwAX-mGq62&_nc_ht=scontent.fcrk1-2.fna&oh=00_AT9zn3FQKRFaV8fbTY098PDVflXNhPqvA0phrbM7yLwGeg&oe=624C1B90);
+    background-size: cover;
+    height: 200px;
+    width: 250px;
+    float: left;
+    margin: 10px;
+    border: 5px solid rgb(0, 0, 0);
+    margin-top: 10px;
+    margin-left: 40px;
+} 
+.internal{
+      float: left;
+      display: block;
+      color: #f2f2f2;
+      
+      text-align: center;
+      padding: 91px 130px;
+      border: 10px solid rgb(0, 0, 0);;
+      
+      text-decoration: none;
+}
+section {
+
+    float: none;
+    width: 90%;
+    padding: 15px;
+    clear: both;
+    margin: 20px;
+}
+h1{
+    font-family:Roboto, Arial, sans-serif;
+    text-align: center;
+    color: #FFFFFF;
+    background: rgb(0, 0, 0);
+
+}
+p{
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+}
+nav{
+    float: right;
+    overflow: hidden;
+    border-bottom: 1000px;
+    background-color: rgb(99, 62, 32);
+  }
+.Fuhua{
+    width: 100px;
+
+}
+.reference{
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 16px;
+    color: rgb(88, 23, 32);
+}
+hr{
+    color:black
+}
